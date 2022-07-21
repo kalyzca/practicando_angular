@@ -6,5 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'practicando_angular';
+  title = "Aprendiendo Angular v14";
+  subtitulo = "Interpolación";
+  saludo = "Bienvenido";
+  a = 5;
+  b = 6;
+  base = 10;
+  altura = 12;
 }
